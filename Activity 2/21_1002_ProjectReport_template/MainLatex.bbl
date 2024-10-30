@@ -1,0 +1,48 @@
+\begin{thebibliography}{1}
+
+\bibitem{WAGNER2015133}
+E.~Gerhart.
+\newblock {Chapter Three - Small RNAs in Bacteria and Archaea: Who They Are,
+  What They Do, and How They Do It}.
+\newblock volume~90 of {\em Advances in Genetics}, pages 133 -- 208. Academic
+  Press, 2015.
+\newblock \url
+  {http://www.sciencedirect.com/science/article/pii/S0065266015000036}.
+
+\bibitem{Adrien2015}
+Adrien Pain, Alban Ott, Hamza Amine, Tatiana Rochat, Philippe Bouloc, and
+  Daniel Gautheret.
+\newblock {An assessment of bacterial small RNA target prediction programs}.
+\newblock {\em RNA Biology}, 12(5):509--513, 2015.
+\newblock \url{https://doi.org/10.1080/15476286.2015.1020269}.
+
+\bibitem{Wright2013}
+Patrick~R. Wright, Andreas~S. Richter, Kai Papenfort, Martin Mann, J{\"o}rg
+  Vogel, Wolfgang~R. Hess, Rolf Backofen, and Jens Georg.
+\newblock {Comparative genomics boosts target prediction for bacterial small
+  RNA}.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  110(37):E3487--E3496, 2013.
+\newblock \url{https://doi.org/10.1073/pnas.1303248110}.
+
+\bibitem{Richter2008}
+Andreas~S. Richter, Anke Busch, and Rolf Backofen.
+\newblock {IntaRNA: efficient prediction of bacterial sRNA targets
+  incorporating target site accessibility and seed regions}.
+\newblock {\em Bioinformatics}, 24(24):2849--2856, 10 2008.
+\newblock \url {https://doi.org/10.1093/bioinformatics/btn544}.
+
+\bibitem{Haynes2013}
+Winston Haynes.
+\newblock {\em {Wilcoxon Rank Sum Test}}, pages 2354--2355.
+\newblock Springer New York, New York, NY, 2013.
+\newblock \url{https://doi.org/10.1007/978-1-4419-9863-7_1185}.
+
+\bibitem{wilcox}
+{R} Documentation.
+\newblock wilcox.test: Wilcoxon rank sum and signed rank tests.
+\newblock
+  \url{https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/wilcox.test}.
+\newblock (Accessed on 07/10/2020).
+
+\end{thebibliography}
