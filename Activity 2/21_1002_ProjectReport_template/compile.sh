@@ -10,5 +10,5 @@ echo 'complete'
 echo 'performing 4/4 pass...'
 pdflatex -interaction=nonstopmode MainLatex.tex > /dev/null 2>&1
 echo 'complete. cleaning up'
-rm *.aux *.bbl *.blg *.log *.lof 
+rm *.aux *.bbl *.blg *.log *.lof *.lot *.toc *.out
 echo 'done'

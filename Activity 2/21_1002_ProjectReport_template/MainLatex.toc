@@ -1,5 +1,0 @@
-\contentsline {chapter}{Abstract}{i}{section*.1}%
-\contentsline {chapter}{List of Figures}{iii}{chapter*.4}%
-\contentsline {chapter}{List of Tables}{iv}{chapter*.5}%
-\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
-\contentsline {chapter}{Bibliography}{3}{section*.6}%
